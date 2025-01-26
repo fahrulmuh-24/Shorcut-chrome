@@ -1,1 +1,1 @@
-# Shorcut-chrome
+# Shorcut
