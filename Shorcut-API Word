@@ -1,0 +1,30 @@
+*Shortcut Dasar
+    Ctrl + N → Buka dokumen baru
+    Ctrl + O → Buka dokumen yang sudah ada
+    Ctrl + S → Simpan dokumen
+    Ctrl + P → Cetak dokumen
+
+*Shortcut Editing
+    Ctrl + C → Copy
+    Ctrl + X → Cut
+    Ctrl + V → Paste
+    Ctrl + Z → Undo (batalin yang terakhir)
+    Ctrl + Y → Redo (balikin yang dibatalin)
+    Ctrl + A → Pilih semua teks
+
+*Shortcut Formatting
+    Ctrl + B → Bold (tebal)
+    Ctrl + I → Italic (miring)
+    Ctrl + U → Underline (garis bawah)
+    Ctrl + Shift + > → Perbesar ukuran font
+    Ctrl + Shift + < → Perkecil ukuran font
+    Ctrl + E → Rata tengah
+    Ctrl + L → Rata kiri
+    Ctrl + R → Rata kanan
+    Ctrl + J → Rata kanan-kiri (justify)
+
+*Navigasi Cepat
+    Ctrl + Home → Ke awal dokumen
+    Ctrl + End → Ke akhir dokumen
+    Ctrl + → (kanan/kiri) → Pindah per kata
+    Ctrl + ↑/↓ → Pindah per paragraf
